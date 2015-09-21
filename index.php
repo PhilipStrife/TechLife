@@ -12,15 +12,7 @@
         </header>
         
         <!--Menu-->
-        <nav>
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="#">Leia</a></li>
-                <li><a href="#">Assista</a></li>
-                <li><a href="#">Fotos</a></li>
-                <li><a href="#">Contato</a></li>
-            </ul>
-        </nav>
+        
         
         <!--Conteudo-->
         
