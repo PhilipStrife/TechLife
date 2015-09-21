@@ -1,1 +1,17 @@
 /*Style Sheet*/
+
+section#homeOnly{
+    width: 680px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+article.allArticle{
+    
+}
+
+video#trailer{     
+    width: 560px;
+    height: 315px;
+}
